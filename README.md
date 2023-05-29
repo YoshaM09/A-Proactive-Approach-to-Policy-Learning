@@ -1,4 +1,6 @@
 # A-Proactive-Approach-to-Policy-Learning
+<img width="370" alt="Screenshot 2023-03-21 at 11 37 25 AM" src="https://github.com/YoshaM09/A-Proactive-Approach-to-Policy-Learning/assets/105993890/6d172fb3-898f-4e72-80c2-1f021ba1d622">
+
 ### Purpose:
 
 Change MDP (Markov Decision Process) by introducing skip connections.
